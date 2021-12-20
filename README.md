@@ -18,4 +18,3 @@ class JAVA
         System.out.println("sum =" + sum);
     }
 }
-
